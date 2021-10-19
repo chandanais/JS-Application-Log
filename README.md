@@ -9,7 +9,7 @@ Use index.html as a mock web application to demonstrate the logging solution.
 
 ## User Stories
 
-In the following user stories, the user interface that displays and filters log entries is referred to as the _log panel_.
+In the following user stories, the term _log panel_ refers to the user interface that displays and filters log entries.
 
 * As a developer, I want to assign a severity level to the log entries that I generate so that I can indicate the rough importance of each entry. From lowest to highest severity, the levels should be `info`, `warning`, and `error`.
 * As a web app user, I want the log panel to be hidden unless I explicitly reveal it.

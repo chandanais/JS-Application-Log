@@ -58,3 +58,7 @@ Assuming that `log` contains an instance of the Log object, the following statem
 `log.error('MyModule', 'Something bad happened.');`
 
 
+## Completion
+
+Please submit the completed project as a pull request to this repository.
+
